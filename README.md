@@ -30,7 +30,7 @@ aws configure
 ## 🎯 How to Use
 Run the script and let it do the magic:
 ```sh
-python cspm_script.py
+python setup.py
 ```
 
 ## 📊 Output
